@@ -1,0 +1,88 @@
+[
+    {
+      "key": "txtEmail",
+      "value": "txtEmail",
+      "type": "id"
+    },
+    {
+      "key": "btnActivationEmail",
+      "value": ".//a[contains(text(),'E-posta adresinizi doğrulayın.')]",
+      "type": "xpath"
+    },
+    {
+      "key": "btnDogrula",
+      "value": "Doğrula",
+      "type": "linktext"
+    },
+    {
+      "key": "firstName",
+      "value": "txtName",
+      "type": "id"
+    },
+    {
+      "key": "lastName",
+      "value": "txtSurname",
+      "type": "id"
+    },
+    {
+      "key": "txtNewPassEmail",
+      "value": "txtNewPassEmail",
+      "type": "id"
+    },
+    {
+      "key": "checkSubscribeEmail",
+      "value": "checkSubscribeEmail",
+      "type": "id"
+    },
+    {
+      "key": "btnSignUp",
+      "value": "btnSignUpSubmit",
+      "type": "id"
+    },
+    {
+      "key": "txtPassword",
+      "value": "input#txtPassword",
+      "type": "css"
+    },
+    {
+      "key": "btnLoginSignUp",
+      "value": "btnEmailSelect",
+      "type": "id"
+    },
+    {
+    "key": "btnGirisYap",
+    "value": "div[id='myAccount']",
+    "type": "css"
+    },
+    {
+     "key": "btnGirisYap2",
+     "value": "login",
+     "type": "id"
+    },
+    {
+      "key": "txtLoginEmail",
+      "value": "txtUserName",
+      "type": "id"
+    },
+    {
+      "key": "btnLoginEmail",
+      "value": "btnLogin",
+      "type": "id"
+    },
+    {
+    "key": "txtWelcome",
+    "value": "div[class='_8EhOpLNSY8WDom_J4mL6Y']",
+    "type": "css"
+    },
+    {
+    "key": "btnRegister",
+    "value": "register",
+    "type": "id"
+    },
+    {
+      "key": "btnCopy",
+      "value": "button.btn-rds icon-btn bg-theme click-to-copy copyIconGreenBtn",
+      "type": "css"
+    }
+
+]

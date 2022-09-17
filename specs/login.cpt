@@ -1,0 +1,50 @@
+# Giris yap veya üye ol butonuna tiklanir.
+* "btnGirisYap" elementinin üzerinde bekle.
+* "10" saniye bekle.
+
+# Giris yap butonuna tiklanir.
+* Elementine tıkla "btnGirisYap2"
+* "10" saniye bekle.
+
+# E-posta alanına <email> yazilir.
+* <email> textini "txtLoginEmail" elementine yaz.
+* "10" saniye bekle.
+* Elementine tıkla "btnLoginEmail"
+
+# Giriş yap butonuna tiklanir.
+* Elementine tıkla "btnLogin"
+* "10" saniye bekle.
+
+# Şifre alanına <password> yazilir.
+* "txtWelcome" elementini kontrol et.
+* <password> textini "txtPassword" elementine yaz.
+* "10" saniye bekle.
+* Elementine tıkla "btnLoginSignUp"
+* "10" saniye bekle.
+
+# E-posta adresi alanına <email> yazilir.
+* <email> textini "txtEmail" elementine yaz.
+
+# Uye ol butonuna tiklanir.
+* Elementine tıkla "btnRegister"
+* "10" saniye bekle.
+
+# Devam et butonuna tiklanir.
+* Elementine tıkla "btnSignUp"
+
+# E-posta adresinizi doğrulayın mailine tiklanir.
+* Elementine tıkla "btnActivationEmail"
+* Elementine tıkla "btnDogrula"
+
+# Ad Soyad alanlarına <firstName>, <lastName> yazilir.
+* <firstName> textini "firstName" elementine yaz.
+* <lastName> textini "firstName" elementine yaz.
+
+# Parola alanına <password> yazilir.
+* <password> textini "txtNewPassEmail" elementine yaz.
+
+# Rıza metninde checkbox isaretlenir.
+* Elementine tıkla "checkSubscribeEmail"
+
+# Uye ol butona tiklanir.
+* Elementine tıkla "btnSignUp"
